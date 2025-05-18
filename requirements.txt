@@ -1,0 +1,8 @@
+streamlit>=1.18.0
+pandas>=1.5.3
+openai>=0.27.0
+langchain>=0.0.193
+langchain_experimental>=0.0.193
+python-dotenv>=1.0.0
+openpyxl>=3.1.2
+tabulate
